@@ -1,0 +1,8 @@
+{
+  "id": "30473f",
+  "name": "Squeak Plugin",
+  "modes": [
+    "canvas"
+  ],
+  "icon": "/icon.svg"
+}
